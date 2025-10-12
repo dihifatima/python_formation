@@ -1,0 +1,5 @@
+#*strings are arrays 
+"""
+like many other popular programming languages Strings in python are arrays of unicode characters
+however py does not have a character data type  a single character is simply a string with a length of 1
+"""
